@@ -443,24 +443,24 @@
 //\\ Monsters
 
 // Weapons
-    DRRP_W_AXE              = "Зомбирезка";
-    DRRP_W_FIREEXT          = "Вогнегаснык";
-    DRRP_W_SHOTGUN          = "Винчестер";
+    DRRP_W_AXE              = "Головоломка";
+    DRRP_W_FIREEXT          = "Пердакотушитель";
+    DRRP_W_SHOTGUN          = "Ружжо";
     DRRP_W_SUPERSHOTGN      = "Обрез";
-    DRRP_W_CHAINGUN         = "Пулемет";
-    DRRP_W_ROCKETLNCHR      = "Пукалка";
-    DRRP_W_PLASMAGUN        = "Плазмаган";
+    DRRP_W_CHAINGUN         = "Максим";
+    DRRP_W_ROCKETLNCHR      = "Шайтан-труба";
+    DRRP_W_PLASMAGUN        = "Плазмаплюй";
     DRRP_W_BFG              = "БЕП";
-    DRRP_W_PISTOL           = "Пистолет";
+    DRRP_W_PISTOL           = "Пугач";
     DRRP_W_HELLHOUND        = "Адская сука";
-    DRRP_W_CERBERUS         = "Цербер";
-    DRRP_W_DEMONWOLF        = "Голубой волк";
+    DRRP_W_CERBERUS         = "Тузик";
+    DRRP_W_DEMONWOLF        = "Волк-пидорас";
 
-    DRRP_W_AXEPICKUP        = "Подобрана зомбирезка!";
-    DRRP_W_FIREEXTPICKUP    = "Подобран огнетушитель!";
-    DRRP_W_HELLHOUNDPICKUP  = "Адская гончая!";
-    DRRP_W_CERBERUSPICKUP   = "Цербер!";
-    DRRP_W_DEMONWOLFPICKUP  = "Голубой волк!";
+    DRRP_W_AXEPICKUP        = "Подобрана головоломка!";
+    DRRP_W_FIREEXTPICKUP    = "Подобран пердакотушитель!";
+    DRRP_W_HELLHOUNDPICKUP  = "Укротил суку!";
+    DRRP_W_CERBERUSPICKUP   = "Поймал Тузика!";
+    DRRP_W_DEMONWOLFPICKUP  = "Свой личный гомоволк!";
 //\\ Weapons
 
 // Items
