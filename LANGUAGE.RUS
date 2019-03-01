@@ -460,7 +460,7 @@
     DRRP_W_FIREEXTPICKUP    = "Подобран пердакотушитель!";
     DRRP_W_HELLHOUNDPICKUP  = "Укротил суку!";
     DRRP_W_CERBERUSPICKUP   = "Поймал Тузика!";
-    DRRP_W_DEMONWOLFPICKUP  = "Свой личный гомоволк!";
+    DRRP_W_DEMONWOLFPICKUP  = "Собственный гомоволк!";
 //\\ Weapons
 
 // Items
