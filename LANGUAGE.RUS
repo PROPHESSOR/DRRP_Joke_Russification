@@ -405,7 +405,7 @@
     DRRP_M_ZOMBIECPT        = "Зомби-черпак";
     DRRP_M_HELLHOUND        = "Адская сука";
     DRRP_M_CERBERUS         = "Шарик";
-    DRRP_M_DEMONWOLF        = "Волк-пидорас";
+    DRRP_M_DEMONWOLF        = "Голубой щенок";
     DRRP_M_TROOP            = "Труп";
     DRRP_M_COMMANDO         = "Дядя Толя";
     DRRP_M_ASSASSIN         = "Отсосин";
@@ -454,13 +454,13 @@
     DRRP_W_PISTOL           = "Пугач";
     DRRP_W_HELLHOUND        = "Адская сука";
     DRRP_W_CERBERUS         = "Тузик";
-    DRRP_W_DEMONWOLF        = "Волк-пидорас";
+    DRRP_W_DEMONWOLF        = "Голубой щенок";
 
     DRRP_W_AXEPICKUP        = "Подобрана головоломка!";
     DRRP_W_FIREEXTPICKUP    = "Подобран пердакотушитель!";
     DRRP_W_HELLHOUNDPICKUP  = "Укротил суку!";
     DRRP_W_CERBERUSPICKUP   = "Поймал Тузика!";
-    DRRP_W_DEMONWOLFPICKUP  = "Собственный гомоволк!";
+    DRRP_W_DEMONWOLFPICKUP  = "Собственный гомоцуцык!";
 //\\ Weapons
 
 // Items
